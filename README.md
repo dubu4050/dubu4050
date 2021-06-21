@@ -1,7 +1,6 @@
-<h2 align = 'center'> Hello! 👋 </h2>
-
 <div align="center">
-
+  <h2> Hello! I'm Haejun Kim! 👋 </h2>
+  <br>
   <h3>💻 Skills</h3>
   
   <img src="https://img.shields.io/badge/NestJS-0E0E10?style=flat-square&logo=NestJS&logoColor=white"/>
@@ -16,7 +15,7 @@
   <img src="https://img.shields.io/badge/Python-4774A5?style=flat-square&logo=Python&logoColor=white"/>
   
 
-  <h3>🐤 Haejun Kim</h3>
+  <h3> :feet: </h3>
   <a href="https://velog.io/@dubu4050"><img src="https://img.shields.io/badge/Velog-60C69A?style=flat-square&logo=vimeo&logoColor=white"/></a>
   <a href="mailto:dubu4050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D85140?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="mailto:dubu4050@naver.com"><img src="https://img.shields.io/badge/Naver-white?style=flat-square&logo=naver&logoColor=60CB6C"/></a>
