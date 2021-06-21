@@ -19,11 +19,11 @@
   <a href="https://velog.io/@dubu4050"><img src="https://img.shields.io/badge/Velog-60C69A?style=flat-square&logo=vimeo&logoColor=white"/></a>
   <a href="mailto:dubu4050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D85140?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="mailto:dubu4050@naver.com"><img src="https://img.shields.io/badge/Naver-white?style=flat-square&logo=naver&logoColor=60CB6C"/></a>
-
-
+  <br>
+  <br>
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdubu4050&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
-
-
 <!--
 **dubu4050/dubu4050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
