@@ -1,10 +1,10 @@
 
 <div align="center">
   <h2> 👨‍🎓 Haejun Kim </h2>
-  <br>
+
   
-  <img src="https://user-images.githubusercontent.com/51086651/135150350-026c6f4b-b8dd-4eef-b6e1-3f19713bc1d5.jpg" width=300 >
-  <br>
+<!--   <img src="https://user-images.githubusercontent.com/51086651/135150350-026c6f4b-b8dd-4eef-b6e1-3f19713bc1d5.jpg" width=300 > -->
+
   백엔드 개발자가 되고싶은 학생 김해준입니다.
   
 <!--   <h3>💻 
@@ -22,9 +22,7 @@ Skills</h3>
   
 
 <!--   <h3> :feet: </h3> -->
-  <br>
-  <br>
-  <br>
+
   <br>
   <a href="https://velog.io/@dubu4050"><img src="https://img.shields.io/badge/Velog-60C69A?style=flat-square&logo=vimeo&logoColor=white"/></a>
   <a href="mailto:dubu4050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D85140?style=flat-square&logo=gmail&logoColor=white"/></a>
