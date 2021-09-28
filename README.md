@@ -2,10 +2,9 @@
   <h2> Hello! I'm Haejun Kim! 👋 </h2>
   <br>
   <h3>💻 Skills</h3>
-  
-  <img src="https://img.shields.io/badge/NestJS-0E0E10?style=flat-square&logo=NestJS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-16372A?style=flat-square&logo=Django&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Spring-7EB34F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-0E0E10?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-313131?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-285E88?style=flat-square&logo=MySQL&logoColor=white"/>
   <br>
