@@ -5,7 +5,7 @@
   
 <!--   <img src="https://user-images.githubusercontent.com/51086651/135150350-026c6f4b-b8dd-4eef-b6e1-3f19713bc1d5.jpg" width=300 > -->
 
-  백엔드 개발자가 되고싶은 학생 김해준입니다.
+백엔드 개발자 김해준입니다.
   
 <!--   <h3>💻 
 Skills</h3>
