@@ -1,6 +1,6 @@
 
 <div align="center">
-  
+  <h2> Haejun </h2>
 백엔드 개발자 김해준입니다.
   
   <br>
